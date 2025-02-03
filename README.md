@@ -1,0 +1,1 @@
+These are just basic practice projects in order to understand React better.
